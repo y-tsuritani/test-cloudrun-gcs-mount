@@ -1,0 +1,7 @@
+*.toml
+*.sh
+*.lock
+.mypy_cache/
+.venv
+.python-version
+credentials.json
